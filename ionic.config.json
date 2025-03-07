@@ -1,0 +1,8 @@
+{
+  "name": "VizzIt",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "9b0d0fe6"
+}
